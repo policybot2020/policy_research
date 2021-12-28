@@ -1,6 +1,4 @@
-# policy_research
-
-# Computational_Politics
+# Computational Policy Research
 These are publicy on-going research and codes to my master's thesis entitled "A Machine Learning Approach to Predicting China's Industrial Policy."
 
 ## Literature:
